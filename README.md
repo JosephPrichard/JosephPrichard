@@ -5,7 +5,7 @@ I'm a CS Student at the University of Texas Dallas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephPrichard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="http://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B">
+<img src="https://img.shields.io/badge/C++.svg?style=flat&logo=c%2B%2B">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
